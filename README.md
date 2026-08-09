@@ -170,7 +170,7 @@ A mobile-first web app that gives a university class representative one place to
 <strong>PHP · MySQL · PDO · Vanilla JS</strong>
 </p>
 <p align="center">
-<a href="https://cr-portal.infinityfreeapp.com">Live Demo</a> · <a href="#">Source Code</a>
+<a href="https://cr-portal.infinityfreeapp.com">Live Demo</a> · <a href="https://github.com/IbrahimUsman056/CR-Management-System">Source Code</a>
 </p>
 </td>
 </tr>
@@ -217,7 +217,7 @@ A civic-focused platform for tracking tree plantation activities, volunteers, lo
 </p>
 
 <p align="center">
-<!-- <a href="#">Live Demo</a> · <a href="#">Source Code</a> -->
+<a href="https://multan-tree-tracker.vercel.app/">Live Demo</a><!--  · <a href="#">Source Code</a> -->
 </p>
 
 </td>

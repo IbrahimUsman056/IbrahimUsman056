@@ -87,7 +87,7 @@ I enjoy taking an idea from a simple concept and turning it into a complete, usa
   <tr>
     <td width="50%" valign="top">
 
-<h3 align="center">🏢 Reception Management System</h3>
+<h3 align="center">🏢 SOS Reception System</h3>
 
 <p align="center">
 A role-based management system designed to organize reception operations, records, departments, and administrative workflows.
@@ -103,7 +103,7 @@ A role-based management system designed to organize reception operations, record
 </p>
 
 <p align="center">
-<a href="#">Live Demo</a> · <a href="#">Source Code</a>
+<a href="https://sosreception.infinityfreeapp.com/">Live Demo</a> · <a href="https://github.com/IbrahimUsman056/SOS-Reception-System">Source Code</a>
 </p>
 
 </td>
@@ -126,7 +126,7 @@ A multi-tenant workforce management platform for security companies with role-ba
 </p>
 
 <p align="center">
-<a href="#">Live Demo</a> · <a href="#">Source Code</a>
+<a href="https://security-workforce-manager-iota.vercel.app/">Live Demo</a> · <a href="https://github.com/IbrahimUsman056/Security-Workforce-Manager">Source Code</a>
 </p>
 
 </td>
@@ -151,32 +151,27 @@ A complete restaurant reservation platform allowing customers to explore restaur
 </p>
 
 <p align="center">
-<a href="#">Live Demo</a> · <a href="#">Source Code</a>
+<a href="https://royenza.vercel.app/">Live Demo</a> · <a href="https://github.com/IbrahimUsman056/ROYENZA---Restaurant-Reservation-System">Source Code</a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
-
-<h3 align="center">🌳 Multan Green Initiative</h3>
-
+<h3 align="center">🎓 CR Management System</h3>
 <p align="center">
-A civic-focused platform for tracking tree plantation activities, volunteers, locations, and environmental information such as AQI.
+A mobile-first web app that gives a university class representative one place to manage attendance, quiz marks, project groups, and teacher task tracking across multiple courses.
 </p>
-
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Maps-0D4D4A?style=flat-square" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
-
 <p align="center">
-<strong>React · Maps · APIs · Environmental Data</strong>
+<strong>PHP · MySQL · PDO · Vanilla JS</strong>
 </p>
-
 <p align="center">
-<a href="#">Live Demo</a> · <a href="#">Source Code</a>
+<a href="https://cr-portal.infinityfreeapp.com">Live Demo</a> · <a href="#">Source Code</a>
 </p>
-
 </td>
 </tr>
 
@@ -199,12 +194,33 @@ An interactive 3D mathematical visualization built to explore an elliptical para
 </p>
 
 <p align="center">
-<a href="#">Live Demo</a> · <a href="#">Source Code</a>
+<!-- <a href="#">Live Demo</a> · --><a href="https://github.com/IbrahimUsman056/Elliptical-Paraboloid-3D-Simulation-using-React">Source Code</a>
 </p>
 
 </td>
 
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌳 Multan Green Initiative</h3>
+
+<p align="center">
+A civic-focused platform for tracking tree plantation activities, volunteers, locations, and environmental information such as AQI.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Maps-0D4D4A?style=flat-square" />
+</p>
+
+<p align="center">
+<strong>React · Maps · APIs · Environmental Data</strong>
+</p>
+
+<p align="center">
+<!-- <a href="#">Live Demo</a> · <a href="#">Source Code</a> -->
+</p>
+
+</td>
 </tr>
 </table>
 

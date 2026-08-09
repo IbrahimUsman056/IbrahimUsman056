@@ -14,11 +14,10 @@
 
 ### 🚀 About Me
 
-- 🎓 BSCS student at **Air University, Multan Campus** — CGPA 3.88
+- 🎓 BSCS student at **Air University, Multan Campus** — CGPA 3.89
 - 💼 Currently interning as a **Web Development Intern** at **SOS Pakistan**
-- 🛠️ Working on real-world apps: reception & security panels, fleet management systems, and a cricket tournament platform
+- 🛠️ Working on real-world apps: reception & security panels, fleet management systems, and a workforce management platform
 - 🏏 Big into cricket — I run RC24 tournaments with friends and love breaking down match formats & qualification scenarios
-- 🌱 Exploring freelancing on Upwork, Fiverr & Contra
 - ⚡ Fun fact: I've built everything from a from-scratch character-level Transformer to a full RBAC admin panel
 
 ---
@@ -26,7 +25,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,react,nodejs,express,mysql,fastapi,python,cpp,figma,git,github,vscode,postman,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=php,react,nodejs,express,mysql,fastapi,python,cpp,git,github,vscode,postman,html,css,js" />
 </p>
 
 <p align="center">
@@ -173,10 +172,9 @@ Push it, let the Action run once, then the image link above will start working.
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0d4d4a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ibrahimusman56/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ibrahiman2468@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-mauve-six-qxqeu90xm7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d4d4a?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">

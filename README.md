@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=0d4d4a&style=flat" alt="profile views" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=IbrahimUsman056&label=Profile%20Views&color=0d4d4a&style=flat" alt="profile views" /></a>
 </p>
 
 ---
@@ -102,16 +102,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0d4d4a&icon_color=f4a259&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0d4d4a&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IbrahimUsman056&show_icons=true&theme=transparent&hide_border=true&title_color=0d4d4a&icon_color=f4a259&text_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimUsman056&layout=compact&theme=transparent&hide_border=true&title_color=0d4d4a&text_color=333333" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=transparent&hide_border=true&ring=0d4d4a&fire=f4a259&currStreakLabel=0d4d4a" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimUsman056&theme=transparent&hide_border=true&ring=0d4d4a&fire=f4a259&currStreakLabel=0d4d4a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=minimal&hide_border=true&color=0d4d4a&line=f4a259&point=333333" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimUsman056&theme=minimal&hide_border=true&color=0d4d4a&line=f4a259&point=333333" />
 </p>
 
 ---
@@ -126,7 +126,7 @@
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IbrahimUsman056/IbrahimUsman056/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <details>
@@ -152,7 +152,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR-USERNAME
+          github_user_name: IbrahimUsman056
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

@@ -129,44 +129,6 @@
   <img src="https://raw.githubusercontent.com/IbrahimUsman056/IbrahimUsman056/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<details>
-<summary>⚙️ How to enable the snake animation (click to expand)</summary>
-
-Add this file at `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: IbrahimUsman056
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Push it, let the Action run once, then the image link above will start working.
-</details>
-
 ---
 
 ### 🤝 Connect With Me
